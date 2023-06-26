@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.all-content{
+    background-color: rgb(32, 57, 102);
+
+}
+.navbar{
+    background-color: rgb(234, 203, 234);
+    padding-left: 150px;
+    font-weight: bold;
+}
+.navbar-brand{
+    padding-left: 100px;
+    
+}
